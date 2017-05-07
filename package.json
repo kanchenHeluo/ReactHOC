@@ -1,0 +1,35 @@
+{
+  "name": "react_mixins",
+  "version": "1.0.0",
+  "description": "react router demo from https://reacttraining.com/react-router/",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server --hot"
+  },
+  "keywords": [
+    "react",
+    "mixins",
+    "ES6",
+    "ES7",
+    "higher order"
+  ],
+  "author": "kanchen",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "webpack": "^2.4.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.4.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "prop-types": "^15.5.8",
+    "webpack-dev-server": "^2.4.4"
+  }
+}
